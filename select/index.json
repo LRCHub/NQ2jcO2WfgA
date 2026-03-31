@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Right Now",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-03-31T10:03:35.610855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back Then, Right Now",
+      "artist": "Tenille Arts",
+      "has_synced": true,
+      "path": "select/01_Back_Then,_Right_Now_Tenille_Arts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back Then, Right Now",
+      "artist": "Tenille Arts",
+      "has_synced": true,
+      "path": "select/02_Back_Then,_Right_Now_Tenille_Arts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Leave Right Now",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/03_Leave_Right_Now_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Right Now",
+      "artist": "Amber Liu feat. Gen Neo",
+      "has_synced": true,
+      "path": "select/04_Right_Now_Amber_Liu_feat._Gen_Neo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Right Now",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/05_Right_Now_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Right Now",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/06_Right_Now_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want You Right Now",
+      "artist": "MC5",
+      "has_synced": false,
+      "path": "select/07_I_Want_You_Right_Now_MC5.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Right Now",
+      "artist": "Oh No",
+      "has_synced": false,
+      "path": "select/08_Right_Now_Oh_No.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heaven Right Now",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/09_Heaven_Right_Now_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hot Right Now (radio edit)",
+      "artist": "DJ Fresh Feat.Rita Ora",
+      "has_synced": true,
+      "path": "select/10_Hot_Right_Now_(radio_edit)_DJ_Fresh_Feat.Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hot Right Now (Radio Edit)",
+      "artist": "DJ Fresh feat. Rita Ora",
+      "has_synced": true,
+      "path": "select/11_Hot_Right_Now_(Radio_Edit)_DJ_Fresh_feat._Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot Right Now (feat. RITA ORA)",
+      "artist": "DJ Fresh feat. Rita Ora",
+      "has_synced": true,
+      "path": "select/12_Hot_Right_Now_(feat._RITA_ORA)_DJ_Fresh_feat._Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hot Right Now (feat. Rita Ora)",
+      "artist": "DJ Fresh",
+      "has_synced": true,
+      "path": "select/13_Hot_Right_Now_(feat._Rita_Ora)_DJ_Fresh.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hot Right Now - Live At Koko",
+      "artist": "DJ Fresh feat. Rita Ora",
+      "has_synced": false,
+      "path": "select/14_Hot_Right_Now_-_Live_At_Koko_DJ_Fresh_feat._Rita_Ora.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Right Now (feat. Cochise & TyFontaine)",
+      "artist": "Internet Money feat. Cochise & TyFontaine",
+      "has_synced": true,
+      "path": "select/15_Right_Now_(feat._Cochise_&_TyFontaine)_Internet_Money_feat._Cochise_&_TyFontaine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Right Now (feat. Cochise & TyFontaine)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/16_Right_Now_(feat._Cochise_&_TyFontaine)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One Right Now (with The Weeknd)",
+      "artist": "Post Malone feat. The Weeknd",
+      "has_synced": true,
+      "path": "select/17_One_Right_Now_(with_The_Weeknd)_Post_Malone_feat._The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "One Right Now",
+      "artist": "Post Malone and The Weeknd",
+      "has_synced": true,
+      "path": "select/18_One_Right_Now_Post_Malone_and_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Right Now",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/19_Right_Now_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All Right Now",
+      "artist": "Pepsi & Shirlie",
+      "has_synced": false,
+      "path": "select/20_All_Right_Now_Pepsi_&_Shirlie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Right Now",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_Right_Now_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
